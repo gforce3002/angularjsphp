@@ -1,2 +1,2 @@
 # angularjsphp
-sistema de logue con angular y php
+sistema de logeo con angular y php
